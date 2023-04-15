@@ -5,6 +5,8 @@ This is a short and sweet implementation of my other project, [Nanoterm](https:/
 
 \*As of the last commit, this project is at 80% coverage
 
+__All of the commands are in lib/Commands/Commands.cpp__
+
 Download the project and build with:
 ```
 pio run -e esp01 -t upload
